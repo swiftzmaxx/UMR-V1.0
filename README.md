@@ -4,5 +4,5 @@
 UMR is just programming language made by batch file. There's not file extension. You can only write commands. Maybe in future I can make with file extension. Maybe in UMR V2.0... Enjoy :)
 
 ## Here is example code:
-''c++
+```c++
 printu ("Hello World")
