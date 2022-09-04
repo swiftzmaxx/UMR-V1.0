@@ -5,7 +5,7 @@ UMR is just programming language made by batch file. There's not file extension.
 
 ## When we want to write "Hello World",use this code:
 ```c++
-printu ("Hello World")
+printu (Hello World)
 ```
 When we use UMR to do math,there is not strings in bracket.
 ```c++
