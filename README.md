@@ -3,6 +3,10 @@
 
 UMR is just programming language made by batch file. There's not file extension. You can only write commands. Maybe in future I can make with file extension. Maybe in UMR V2.0... Enjoy :)
 
-## Here is example code:
+## When we want to write "Hello World",use this code:
 ```c++
 printu ("Hello World")
+```
+When we use UMR to do math,there is not strings in bracket.
+```c++
+printu(2+2)
