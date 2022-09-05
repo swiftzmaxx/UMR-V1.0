@@ -1,14 +1,8 @@
 # UMR-V1.0
 ![UMR-removebg-preview (2)](https://user-images.githubusercontent.com/55983768/188314683-e58836c9-28c8-418a-a227-ce050f0f496f.png)
 
-UMR is just programming language made by batch file. There's not file extension. You can only write commands. Maybe in future I can make with file extension. Maybe in UMR V2.0.Enjoy :)
+UMR is operating system.I made it with batch,but I converted it to ".exe".It has Text editor,Terminal,Games,Messenger,TalkBot,Web.We use internet with TWB,it means "The Batch Web".It's offline to look web.In "TalkBot",you talk to bot.You can speak,talk to bot.Enjoy :)
 
-## When we want to write "Hello World",use this code:
-```c++
-printu (Hello World)
-```
-When we use UMR to do math,there is not strings in bracket.
-```c++
-printu(2+2)
-```
-YouTube:https://www.youtube.com/channel/UCrS-OsRyvAbUbTpfvLx8umg
+## If you want to import your own website,do these:
+STEP 1:Code your website with .bat and send it to alphafinger@gmail.com(YOU NEED TO SEND DOMAIN NAME)   
+STEP 2:Your website will import on next version
